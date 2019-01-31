@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1548905235882,1025,4 /,Non HTTP response code: java.net.UnknownHostException,"Non HTTP response message: www: nodename nor servname provided, or not known",Thread Group 1-1,text,false,,2333,0,1,1,http://www/,0,0,1024
+1548905236914,432,11 /reserve.php,200,OK,Thread Group 1-1,text,true,,11173,481,1,1,http://www.blazedemo.com/reserve.php,432,0,266
+1548905237347,131,13 /purchase.php,200,OK,Thread Group 1-1,text,true,,10548,539,1,1,http://www.blazedemo.com/purchase.php,130,0,0
+1548905237488,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,290,0,1,1,null,0,0,0
